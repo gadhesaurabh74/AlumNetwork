@@ -39,7 +39,7 @@ The *Alumni Networking Platform* is a *SaaS-based* web application designed to c
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the Repository
 sh
- git clone https://github.com/yourusername/alumni-network-platform.git
+ git clone (https://github.com/gadhesaurabh74/AlumNetwork.git)
  cd alumni-network-platform
 
 
